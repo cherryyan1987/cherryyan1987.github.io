@@ -6,17 +6,37 @@ Welcome! This is a collection of indie games and browser-playable experiences, w
 
 ## 🎭 Featured Game
 
+### You Make This House a Home (Browser Version)
+
+A psychological horror romance visual novel where you wake up in a strange house with no memory, accompanied by a gentle yet mysterious boyfriend named **Khol**.
+
+🧠 Story-driven gameplay  
+🖤 Psychological horror + romance elements  
+🎨 Hand-drawn 2D artwork  
+🔍 Exploration in a mysterious closed space  
+🔀 Multiple endings and hidden secrets  
+
+👉 **Play online:**  
+https://youmakethishouseahome.online  
+
+👉 **Demo page:**  
+https://cherryyan1987.github.io/you-make-this-house-a-home/
+
+---
+
+## 🎭 Previous Featured Game
+
 ### Kingdom of Marionettes (Browser Version)
 
 A psychological horror visual novel set in an abandoned puppet theater.
 
-- 🧠 Story-driven gameplay  
-- 👁️ Creepy atmosphere and unsettling characters  
-- 🎭 Unique clown and puppet designs  
-- 🔀 Multiple endings  
+🧠 Story-driven gameplay  
+👁️ Creepy atmosphere and unsettling characters  
+🎭 Unique clown and puppet designs  
+🔀 Multiple endings  
 
 👉 **Play online:**  
-https://kingdomofmarionettes.live
+https://kingdomofmarionettes.live  
 
 👉 **Demo page:**  
 https://cherryyan1987.github.io/kingdom-of-marionettes-browser/
@@ -27,6 +47,7 @@ https://cherryyan1987.github.io/kingdom-of-marionettes-browser/
 
 Explore dark, atmospheric, and story-rich horror games:
 
+- You Make This House a Home  
 - Kingdom of Marionettes  
 - More coming soon...
 
@@ -37,6 +58,7 @@ Explore dark, atmospheric, and story-rich horror games:
 Narrative-focused experiences with immersive storytelling:
 
 - Psychological horror  
+- Romance and emotional narrative  
 - Choice-driven endings  
 - Character-focused design  
 
@@ -44,17 +66,19 @@ Narrative-focused experiences with immersive storytelling:
 
 ## 🌐 About This Hub
 
-This site is built to showcase indie games that can be played directly in the browser or explored as narrative experiences.
+This site is built to showcase indie games that can be played directly in the browser or explored as narrative experiences, with a focus on horror and story-driven experiences.
 
 ---
 
 ## 🔗 Links
 
-- Official Website: https://kingdomofmarionettes.live  
-- GitHub Demo Page: https://cherryyan1987.github.io/kingdom-of-marionettes-browser/
+- You Make This House a Home: https://youmakethishouseahome.online  
+- Kingdom of Marionettes: https://kingdomofmarionettes.live  
+- GitHub Demo (You Make This House a Home): https://cherryyan1987.github.io/you-make-this-house-a-home/  
+- GitHub Demo (Kingdom of Marionettes): https://cherryyan1987.github.io/kingdom-of-marionettes-browser/  
 
 ---
 
 ## 🏷️ Tags
 
-indie game, horror game, visual novel, browser game, psychological horror, creepy, clown
+indie game, horror game, psychological horror, visual novel, romance, browser game, story driven, hand drawn, exploration, creepy
