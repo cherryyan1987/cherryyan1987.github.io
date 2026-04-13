@@ -23,6 +23,34 @@ https://youmakethishouseahome.online
 https://cherryyan1987.github.io/you-make-this-house-a-home/
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Free Browser Horror Games – Play Instantly</title>
+
+  <meta name="description" content="Play free horror games and visual novels instantly in your browser. No download required." />
+
+  <meta name="yandex-verification" content="8dc7fec6f8167c1d" />
+
+</head>
+
+<body>
+
+<h1>Play Horror Games Online</h1>
+
+<p>
+Explore browser-based horror games and visual novels.
+</p>
+
+<a href="https://cherryyan1987.github.io/idolsofash-game/">
+Play Idols of Ash
+</a>
+
+</body>
+</html>
 
 ## 🎭 Previous Featured Game
 
